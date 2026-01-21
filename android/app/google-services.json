@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "558016742205",
+    "project_id": "ecoleaker",
+    "storage_bucket": "ecoleaker.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:558016742205:android:d685b7c4609330fb71bb54",
+        "android_client_info": {
+          "package_name": "com.example.ecoleaker"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA4sz5Ml0ODSKnv55EjrQ3g4v1nidiJcRI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
